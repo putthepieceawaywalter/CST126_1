@@ -12,16 +12,16 @@ Notes:
 ---
 
 Purpose: 
-	Practice working with pointers
-	Practice working with the heap
+	Practice working with pointers  
+	Practice working with the heap  
 
-Goal:
+Goal:  
 
   Create a string function that identifies the location of a character within a string.  
-	the FIND function should locate character within a text string, and return the number of first location of the character
-	  within the text string.  
+	the FIND function should locate character within a text string, and return the number of 
+	first location of the character within the text string.  
 	
-	Your program has the following restrictions.
+	Your program has the following restrictions.  
 
 	  - The text function should take a pointer to a char for the string.  
 	  - You may not use any string functions or cstring functions.  If you need these functions, 
@@ -39,15 +39,15 @@ Goal:
 Output Format  
 =============
 
--- <<input string >> -- 
-<char> is in position nn
+\-\- <<input string >> \-\-   
+<char> is in position nn  
 
-Testing Data
+Testing Data  
 =============
 Run your program with the following test data:
 
-String:  "I was born with a plastic spoon in my mouth."
-and characters i,I, w, z,r 
+String:  "I was born with a plastic spoon in my mouth."  
+Characters:  i, I, w, z, r     
 
 String:  ""
 and character y
@@ -57,14 +57,14 @@ Sample Output
 
 Given the test set above, the output would be:
 
-----------------------------------------------
+-----
 
--- I was born with a plastic spoon in my mouth. --
+\-\- I was born with a plastic spoon in my mouth. \-\-  
 i is in position 13  
 I is in position 1  
 w is in position 3  
 z is in position -1  
 r is in position 9  
 
---  --
-y is in position -1  
+\-\-  \-\-  
+y is in position -1    
