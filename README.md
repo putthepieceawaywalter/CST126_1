@@ -1,6 +1,6 @@
 # CST126_01
 
-**Class ID:** *Aunt Beast*
+**Class ID:** Aunt Beast
 
 **Assignement ID:** CST126_01
 
