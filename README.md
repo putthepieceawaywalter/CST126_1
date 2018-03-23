@@ -2,11 +2,11 @@
 
 Class ID: *Aunt Beast*
 
-Assignement ID: *CST126_01*
+Assignement ID: CST126_01
 
 Unresolved Issues:  
 
-Notes: . 
+Notes:  
 
 
 ---
@@ -24,7 +24,8 @@ Goal:
 	Your program has the following restrictions.
 
 	  - The text function should take a pointer to a char for the string.  
-	  - You may not use any string functions or cstring functions.  If you need these functions, you should write them yourself.  
+	  - You may not use any string functions or cstring functions.  If you need these functions, 
+	    you should write them yourself.  
 	  -   You may only use pointers / pointer arithmetic to access your strings
 			(hint:  I wrote my own strlen and strcopy functions using pointer arithmetic.)
 	  - The FIND function should be case sensative.
@@ -34,6 +35,7 @@ Goal:
 	  - You clean your heap up before you exit the program.  No memory leaks.
 
 ---
+
 Output Format  
 =============
 
@@ -54,14 +56,15 @@ Sample Output
 =============
 
 Given the test set above, the output would be:
+
 ----------------------------------------------
 
 -- I was born with a plastic spoon in my mouth. --
-i is in position 13
-I is in position 1
-w is in position 3
-z is in position -1
-r is in position 9
+i is in position 13  
+I is in position 1  
+w is in position 3  
+z is in position -1  
+r is in position 9  
 
 --  --
-y is in position -1
+y is in position -1  
