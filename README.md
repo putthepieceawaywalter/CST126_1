@@ -1,6 +1,6 @@
 # CST126_01
 
-**Class ID**: *Aunt Beast*
+**Class ID:** *Aunt Beast*
 
 **Assignement ID:** CST126_01
 
@@ -15,7 +15,7 @@
 	Practice working with pointers  
 	Practice working with the heap  
 
-**Goal:  **
+**Goal:**
 
   Create a string function that identifies the location of a character within a string.  The FIND function 
   should locate character within a text string, and return the number of first location of the character 
@@ -39,8 +39,8 @@
 Output Format  
 =============
 
-\-\- <<input string >> \-\-    
-<char> is in position nn  
+\-\- _input string_ \-\-    
+_char_ is in position nn  
 
 Testing Data  
 =============
