@@ -33,13 +33,15 @@ Goal:
 	  - Use human indexed format not C++ indexing.  So the first character is position 1.
 	  - You clean your heap up before you exit the program.  No memory leaks.
 
-==========================================================================================
-Your program should output:  
+---
+Output Format  
+=============
 
 -- <<input string >> -- 
 <char> is in position nn
 
-==========================================================================================
+Testing Data
+=============
 Run your program with the following test data:
 
 String:  "I was born with a plastic spoon in my mouth."
@@ -48,9 +50,12 @@ and characters i,I, w, z,r
 String:  ""
 and character y
 
-=========================================================================================
+Sample Output
+=============
+
 Given the test set above, the output would be:
-=========================================================================================
+----------------------------------------------
+
 -- I was born with a plastic spoon in my mouth. --
 i is in position 13
 I is in position 1
@@ -60,5 +65,3 @@ r is in position 9
 
 --  --
 y is in position -1
-
-=========================================================================================
