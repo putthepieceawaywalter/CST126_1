@@ -1,25 +1,25 @@
 # CST126_01
 
-Class ID: *Aunt Beast*
+**Class ID**: *Aunt Beast*
 
-Assignement ID: CST126_01
+**Assignement ID:** CST126_01
 
-Unresolved Issues:  
+**Unresolved Issues:**
 
-Notes:  
+**Notes:**
 
 
 ---
 
-Purpose: 
+**Purpose: **
 	Practice working with pointers  
 	Practice working with the heap  
 
-Goal:  
+**Goal:  **
 
-  Create a string function that identifies the location of a character within a string.  
-	the FIND function should locate character within a text string, and return the number of 
-	first location of the character within the text string.  
+  Create a string function that identifies the location of a character within a string.  The FIND function 
+  should locate character within a text string, and return the number of first location of the character 
+  within the text string.  
 	
 	Your program has the following restrictions.  
 
@@ -39,18 +39,18 @@ Goal:
 Output Format  
 =============
 
-\-\- <<input string >> \-\-   
+\-\- <<input string >> \-\-    
 <char> is in position nn  
 
 Testing Data  
 =============
 Run your program with the following test data:
 
-String:  "I was born with a plastic spoon in my mouth."  
-Characters:  i, I, w, z, r     
+**String:**  "I was born with a plastic spoon in my mouth."  
+**Characters:**  i, I, w, z, r     
 
-String:  ""
-and character y
+**String:**  ""
+**Character:** y
 
 Sample Output
 =============
