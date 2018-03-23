@@ -11,7 +11,7 @@
 
 ---
 
-**Purpose: **
+**Purpose:**  
 	Practice working with pointers  
 	Practice working with the heap  
 
@@ -49,8 +49,8 @@ Run your program with the following test data:
 **String:**  "I was born with a plastic spoon in my mouth."  
 **Characters:**  i, I, w, z, r     
 
-**String:**  ""
-**Character:** y
+**String:**  ""  
+**Character:** y  
 
 Sample Output
 =============
