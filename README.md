@@ -1,4 +1,4 @@
-# CST126_01
+# CST126_01 - Plastic spoons and strings
 
 **Class ID:** Aunt Beast
 
