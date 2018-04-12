@@ -1,13 +1,12 @@
 # CST126_01 - Plastic spoons and strings
 
-**Class ID:** Aunt Beast
+**Class ID:** Ajunta_Pall
 
 **Assignement ID:** CST126_01
 
 **Unresolved Issues:**
 
 **Notes:**
-
 
 ---
 
